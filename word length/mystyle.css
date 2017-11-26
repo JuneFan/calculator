@@ -1,0 +1,47 @@
+body {
+	background-color: #FA8072;
+}
+
+h1 {
+	text-align: center;
+
+}
+#head {
+	margin-top: 135px;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+
+
+#word {
+	margin-top: 100px;
+	width: 350px;
+	height: 40px;
+	margin: auto;
+	display: block;
+}
+#output {
+	
+	width: 100px;
+	
+	background: lightgreen;
+	border: 1px #FA8072 solid;
+	margin: 45px auto 45px;
+	display: block;
+
+}
+
+#button {
+	width: 350px;
+	height: 80px;
+	background-color: blue;
+	color: #fff;
+	border-style: none;
+	border-radius: 15px;
+	margin-top: 100px;
+	font-size: 20px;
+	text-align: center;
+	margin: 45px auto 45px;
+	display: block;
+}
